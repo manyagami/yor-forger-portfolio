@@ -63,3 +63,19 @@ Minimalist footer navigation with direct links to social handles and email.
     ├── about.png
     └── socmed.png
 
+###Quick Setup
+1. Clone or download this repository.
+2. Make sure home.png and forger.png are placed in the root folder.
+3. (Optional) To load a custom .glb or .obj 3D file, update MODEL_TYPE and MODEL_PATH at the top of script.js and run the project with a local server (e.g. VS Code Live Server or npx serve .).
+4. Open index.html in your browser.
+
+###Credits
+Design & Development: @manyagami
+Character Inspiration: Yor Forger (Spy × Family by Tatsuya Endo)
+3D Engine: Three.js
+Typography: Be Vietnam Pro
+Connect
+Instagram: @mandarwishhhh
+GitHub: @manyagami
+TikTok: @surrenderbythem
+Email: mandarwish017@gmail.com
