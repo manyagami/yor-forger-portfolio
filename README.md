@@ -58,10 +58,10 @@ Minimalist footer navigation with direct links to social handles and email.
 ├── forger.png          # About section portrait image
 ├── model.glb           # (Optional) Custom 3D model (.glb or .obj)
 └── screenshots/        # README preview screenshots
-    ├── home.png
-    ├── skills.png
-    ├── about.png
-    └── socmed.png
+    ├── ss1.png
+    ├── ss2.png
+    ├── ss3.png
+    └── ss4.png
 
 Quick Setup
 1. Clone or download this repository.
